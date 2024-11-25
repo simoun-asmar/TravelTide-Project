@@ -21,7 +21,6 @@ Using the features mentioned above, I applied **K-Means Clustering** in Tableau.
 - **Number of Clusters**: 4 primary clusters were identified. However, there was also a **Not Clustered** group.  
   - **Investigation of Not Clustered Group**: Users in this group had null values for key metrics, likely because they engaged with discounts and other features but never completed a booking. This lack of complete data prevented them from being assigned to a cluster.  
 
-[View Clustering Results](Inputs-For-Clustering.png)
 
 ## Groups Created
 The clustering process resulted in five distinct user groups based on their behavior and spending patterns:
