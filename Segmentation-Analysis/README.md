@@ -16,10 +16,14 @@ To segment the users effectively, I selected the following features:
 [View Inputs for Clustering](Inputs-For-Clustering.png)
 
 ## Clustering Process
+
 Using the features mentioned above, I applied **K-Means Clustering** in Tableau. The process resulted in:
 
-- **Number of Clusters**: 4 primary clusters were identified. However, there was also a **Not Clustered** group.  
+- **Number of Clusters**: 4 primary clusters were identified. Additionally, a **Not Clustered** group emerged.  
   - **Investigation of Not Clustered Group**: Users in this group had null values for key metrics, likely because they engaged with discounts and other features but never completed a booking. This lack of complete data prevented them from being assigned to a cluster.  
+
+The numbers in the **Inputs for Clustering** table represent the **centers** of each cluster, reflecting the average behavior for each group. These behavioral patterns were critical in deciding the characteristics and naming of each cluster. 
+
 
 
 ## Groups Created
