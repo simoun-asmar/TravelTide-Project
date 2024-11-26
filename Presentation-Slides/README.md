@@ -6,7 +6,7 @@ This folder contains the **Travel Tide Segmentation Project Presentation Slides*
 - Clustering methodology and segmentation details.
 - Suggested offers tailored to each user segment.
 
-[View the Slides](TravelTide-Project.key)
+[View the Slides](TravelTide-Project.pdf)
 
 ---
 
