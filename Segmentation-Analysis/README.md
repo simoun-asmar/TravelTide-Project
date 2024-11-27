@@ -48,4 +48,4 @@ By combining the feature analysis and clustering results, I identified meaningfu
 
 ### Click on the icon below to see the next step:
 
-[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../)
+[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../Presentation-Video)
