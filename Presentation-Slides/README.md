@@ -12,4 +12,4 @@ This folder contains the **Travel Tide Segmentation Project Presentation Slides*
 
 ### Click on the icon below to see the next step:
 
-[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../)
+[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../Presentation-Video)
