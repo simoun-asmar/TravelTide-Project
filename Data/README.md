@@ -17,6 +17,6 @@ This file stores the results of the SQL query in CSV format. It allows for furth
 
 ### Click on the icon below to see the next step:
 
-[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../)
+[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../Segmentation-Analysis)
 
 
