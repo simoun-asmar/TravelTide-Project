@@ -46,6 +46,9 @@ By combining the feature analysis and clustering results, I identified meaningfu
 
 ---
 
-### Click on the icon below to see the next step:
 
-[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../Presentation-Slides)
+## ⏭️ Next Step: Presentation Slides  
+Want to see how these insights were presented and shared? Click the icon below to access the **Presentation Slides Folder**, which contains the project slides showcasing the findings, methodology, and recommendations:  
+
+➡️ [Presentation Slides](../Presentation-Slides/)
+
