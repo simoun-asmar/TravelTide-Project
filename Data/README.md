@@ -15,8 +15,9 @@ This file stores the results of the SQL query in CSV format. It allows for furth
 
 ---
 
-### Click on the icon below to see the next step:
+## ⏭️ Next Step: Dashboard  
+Curious to see the visual representation of the first insights? Click the icon below to explore the **Dashboard Folder**, where key metrics and trends come to life through an interactive Tableau dashboard:  
 
-[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../Dashboard)
+➡️ [Dashboard](../Dashboard/)
 
 
